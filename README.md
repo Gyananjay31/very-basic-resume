@@ -1,1 +1,1 @@
-# very-basic-resume
+# hosted link ---> https://gyananjay31.github.io/very-basic-resume/
